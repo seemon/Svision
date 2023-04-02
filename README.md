@@ -1,13 +1,10 @@
 <!-- do a long readme -->
 <p align="center"> 
-    <img style="margin-left: -25px" width="70%" src="./readme/images/logo with text 35.png" alt="Logo">
-    <!-- <img style="margin-left: -25px" width="70%" src="./readme/logo with text 31.png" alt="Logo">     -->
-    <!-- <img width="300" src="./readme/presenting 76.png" alt="Logo">     -->
 </p>
 
 ## Description
 
-MyVision is a free online image annotation tool used for generating computer vision based ML training data. It is designed with the user in mind, offering features to speed up the labelling process and help maintain workflows with large datasets.
+SVision is a free online image annotation tool used for generating computer vision based ML training data. It is designed with the user in mind, offering features to speed up the labelling process and help maintain workflows with large datasets.
 
 ## Features
 
